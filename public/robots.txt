@@ -1,0 +1,14 @@
+User-agent: *
+Disallow:/#/a/*
+Disallow: /#/e/*
+Allow: /#
+Allow: /#/nosotros
+Allow: /#/servicios
+Allow: /#/anuncios
+Allow: /#/blog
+Allow: /#/auth/login
+Allow: /#/servicio/*
+Allow: /#/anuncio/*
+Allow: /#/blog/articulo/*
+
+Sitemap: http://www.gotitasdelrocio.org/sitemap.xml

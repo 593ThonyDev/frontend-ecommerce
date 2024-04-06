@@ -1,0 +1,23 @@
+{
+    "background_color": "#ffffff",
+    "categories": ["lifestyle", "music"],
+    "description": "Proporcionamos servicios médicos hasta educación a niños, adolescentes con discapacidad y personas con enfermedades catastróficas en sectores vulnerables ¡Apóyanos en nuestra misión de hacer una diferencia solidaria en la sociedad!",
+    "dir": "ltr",
+    "display_override": ["standalone", "fullscreen"],
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/logoIcono.png",
+        "type": "image/png",
+        "sizes": "20x20"
+      }
+    ],
+    "lang": "es-MX",
+    "name": "Fundacion Gotitas del Rocio",
+    "orientation": "portrait",
+    "prefer_related_application": false,
+    "scope": "/",
+    "short_name": "F.G.R.",
+    "start_url": "/",
+    "theme_color": "#323232"
+  }
